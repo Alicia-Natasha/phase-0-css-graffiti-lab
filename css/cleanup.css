@@ -1,1 +1,22 @@
 /* write your override styles here */
+#wall{
+background-color: bisque;
+color: brown;
+align-items: baseline;
+}
+.tag-1{
+background-color: pink;
+color: aqua;
+align-items: center;
+}
+.tag-2{
+ background-color: aliceblue;
+ color: aliceblue;  
+ align-items: end;
+}
+.tag-3{}
+#parent{}
+.tag-4{}
+.tag-5{}
+.tag-6{}
+.tag-7{}
